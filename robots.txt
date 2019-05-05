@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeuloghaeb.tryjoinads.org/sitemap.xml
